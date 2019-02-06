@@ -7,3 +7,4 @@ training on technologies
 --> CSS
 --> SQL
 --> Community Blog
+--> AngularJS

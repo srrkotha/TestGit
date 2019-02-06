@@ -6,3 +6,4 @@ training on technologies
 --> Html
 --> CSS
 --> SQL
+--> Community Blog

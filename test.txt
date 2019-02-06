@@ -3,3 +3,4 @@ full stack batch
 training on technologies
 --> PHP
 --> Java script
+--> Html

@@ -5,3 +5,4 @@ training on technologies
 --> Java script
 --> Html
 --> CSS
+--> SQL

@@ -4,3 +4,4 @@ training on technologies
 --> PHP
 --> Java script
 --> Html
+--> CSS

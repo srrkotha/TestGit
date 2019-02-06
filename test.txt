@@ -12,3 +12,4 @@ training on technologies
 --> AJAX
 --> JQuery
 --> Jenkins
+--> Mock interview 

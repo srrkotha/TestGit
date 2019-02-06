@@ -9,3 +9,4 @@ training on technologies
 --> Community Blog
 --> AngularJS
 --> NodeJS
+--> AJAX

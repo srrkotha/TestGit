@@ -8,3 +8,4 @@ training on technologies
 --> SQL
 --> Community Blog
 --> AngularJS
+--> NodeJS

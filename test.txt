@@ -11,3 +11,4 @@ training on technologies
 --> NodeJS
 --> AJAX
 --> JQuery
+--> Jenkins

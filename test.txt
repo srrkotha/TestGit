@@ -2,3 +2,4 @@ This is my first text file
 full stack batch
 training on technologies
 --> PHP
+--> Java script

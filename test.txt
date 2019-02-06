@@ -10,3 +10,4 @@ training on technologies
 --> AngularJS
 --> NodeJS
 --> AJAX
+--> JQuery
